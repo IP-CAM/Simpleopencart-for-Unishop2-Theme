@@ -1,4 +1,4 @@
-# SimpleOpencart for Unishop2
+# SimpleOpencart v.3.x for Unishop2
 
 Адаптация корзины модуля Simple и Filterit под шаблон Unishop2 на движке
 opencart 3
